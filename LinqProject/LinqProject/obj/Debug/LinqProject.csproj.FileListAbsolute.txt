@@ -1,0 +1,7 @@
+C:\Users\Ali\source\repos\LinqProject\LinqProject\bin\Debug\LinqProject.exe.config
+C:\Users\Ali\source\repos\LinqProject\LinqProject\bin\Debug\LinqProject.exe
+C:\Users\Ali\source\repos\LinqProject\LinqProject\bin\Debug\LinqProject.pdb
+C:\Users\Ali\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.exe
+C:\Users\Ali\source\repos\LinqProject\LinqProject\obj\Debug\LinqProject.pdb
